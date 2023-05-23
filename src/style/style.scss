@@ -1,0 +1,10 @@
+#home-page {
+  height: 100%;
+  transition: all 0.17s ease-in-out;
+  -moz-transition: all 0.17s ease-in-out;
+  -webkit-transition: all 0.17s ease-in-out;
+  -o-transition: all 0.17s ease-in-out;
+  &.active {
+    opacity: 1;
+  }
+}

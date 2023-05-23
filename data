@@ -1,0 +1,808 @@
+[
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 1",
+     "image": [
+"https://i.postimg.cc/XNhcWhnd/biet-thu-mini-san-vuon-dep-2.jpg"
+     ],
+     "desc": "If you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "1"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 2",
+     "image": ["https://i.postimg.cc/HL9CMRph/biet-thu-mini-2-tang-tan-co-dien-2.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "2"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 3",
+     "image": ["https://i.postimg.cc/FK4Vqnjm/tai-sao-5.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 3-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": " 3-Storey Tube House",
+     "id": "3"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 4",
+     "image": ["https://i.postimg.cc/C1gYR8WS/thiet-ke-biet-thu-3-tang-mai-thai-8.jpg"],
+     "desc": "A 3-story A three-story villa is always a dream of everyone. With a three-story architectural space, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general, and many other convenient spaces. If the three-story villa is built for residential purposes, it would be great, and if it's built to create commercial centers, it would be another direction. Nowadays, due to the increasing demand of people, this villa model is also very popular. There are many diverse models and styles to choose from when planning to build a three-story villa, such as: Thai-style roofed three-story villa model, three-story villa with basement and swimming pool...is always a dream for each of us. With an architectural space of 3 floors, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general,... and many other convenient spaces. If the 3-story villas are built for living, it's super great, but if they're built to create commercial centers, it's another direction. Currently, due to the increasing demand of people, villa models are also very popular. Diverse in terms of models and forms when intending to build a 3-story villa, you can choose from many impressive styles such as: Thai-style 3-story villa model, 3-story villa with basement, swimming pool, etc. Let's take a look at some beautiful 3-story villa models that are currently very popular.",
+     "category": "Villa 3 Floor",
+     "id": "4"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 5",
+     "image": [
+        "https://i.postimg.cc/WbGDyfz2/biet-thu-mini-san-vuon-dep-1.jpg"
+     ],
+     "desc": "If you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "5"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 6",
+     "image": ["https://i.postimg.cc/rm3Hd2dW/tieu-chuan-7.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 2-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "2-Storey Tube House",
+     "id": "6"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 7",
+     "image": ["https://i.postimg.cc/Y2m8vknb/biet-thu-mini-san-vuon-dep-4.jpg"],
+     "desc": "If you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "7"
+    },
+    {
+     "createdAt": "July",
+     "name": "Design Drawings 8",
+     "image": ["https://i.postimg.cc/6pbFsZ9Y/nha-ong-1-tang-3-phong-ngu.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 1-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "1-Storey Tube House",
+     "id": "8"
+    },
+    {
+     "createdAt": "May",
+     "name": "Design Drawings 9",
+     "image": ["https://i.postimg.cc/fLq6s0jw/thiet-ke-biet-thu-1-tang-o-nong-thon-4.jpg"],
+     "desc": "A single-story villa is currently one of the most popular types of houses in the construction market in Vietnam due to the outstanding advantages that this type of villa brings. It has a reasonable cost, fast construction time, and fully meets the needs of many households across the country. In this article, we will summarize and introduce to you some of the most popular single-story villa design models in 2023 so that you can admire and refer to them for your own house. This will be a very suitable suggestion if you have a desire to build a house beyond your wildest dreams!",
+     "category": "Villa 1 Floor",
+     "id": "9"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 10",
+     "image": ["https://i.postimg.cc/MTwL1Jqj/mau-nha-ong-tan-co-dien-2-tang-2.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "10"
+    },
+    {
+     "createdAt": "May",
+     "name": "Design Drawings 11",
+     "image": ["https://i.postimg.cc/BvM7BgHp/biet-thu-san-vuon-1-tang-1-1.jpg"],
+     "desc": "desIf you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "11"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 12",
+     "image": ["https://i.postimg.cc/Sx6Y3QS1/biet-thu-mini-1-tang-hien-dai-hinh-1.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "12"
+    },
+    {
+     "createdAt": "March",
+     "name": "Design Drawings 13",
+     "image": ["https://i.postimg.cc/m2VpqMFm/biet-thu-co-dien-mini-hinh-2.jpg"],
+     "desc": "A classic villa with luxurious and convenient living space is the choice of many high-income investors. Showing sophistication in every detail, beautiful classic villa models can meet the demand for comfort and aesthetics. It requires a high level of expertise from architects, and these classic-style villas here are pleasing many customers. The common point of these ancient villas is the decoration of the architecture with a glamorous European style.",
+     "category": "Classic Villa",
+     "id": "13"
+    },
+    {
+     "createdAt": "December",
+     "name": "Design Drawings 14",
+     "image": ["https://i.postimg.cc/hjP3jbKk/biet-thu-tan-co-dien-3-tang-1.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "14"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 15",
+     "image": ["https://i.postimg.cc/28pJrmNN/uu-diem-19.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 2-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "2-Storey Tube House",
+     "id": "15"
+    },
+    {
+     "createdAt": "October",
+     "name": "Design Drawings 16",
+     "image": ["https://i.postimg.cc/Y9Y6x5nQ/nha-ong-2-tang-3-phong-ngu.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 2-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "2-Storey Tube House",
+     "id": "16"
+    },
+    {
+     "createdAt": "December",
+     "name": "Design Drawings 17",
+     "image": ["https://i.postimg.cc/ZY8mrk0x/biet-thu-san-vuon-1-tang-4-1.jpg"],
+     "desc": "desIf you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "17"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 18",
+     "image": ["https://i.postimg.cc/zDLMs7vM/mau-nha-cap-4-mai-ton-3-phong-ngu-hinh-1.jpg"],
+     "desc": "If you are planning to build your own house with a one-story tin roof style, but still have many doubts because you do not know which modern and luxurious design to choose, then let's take a look at the latest beautiful one-story house models built with tin roof in 2023 right below. Besides that, the furniture used in the house often has simple patterns, bright colors, to harmonize with the overall space of the house.",
+     "category": "With Corrugated Iron Roof",
+     "id": "18"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 19",
+     "image": ["https://i.postimg.cc/Df17L7hB/tham-khao-nha-2-tang-nong-thon-1599546251-587-width600height500.jpg"],
+     "desc": "A beautiful and affordable home that can meet all basic needs is the choice of many families. In addition to cost and production time reasons, these product designs also meet the scientific, convenient, and modern aesthetic needs of users...",
+     "category": "Rural Level 4 House",
+     "id": "19"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 20",
+     "image": ["https://i.postimg.cc/65qCT4rk/thiet-ke-biet-thu-2-tang-co-tang-ham-1.jpg"],
+     "desc": "In the year 2023, there are many architectural models that have been constructed throughout the country, including many design models that have received satisfaction and trust from many investors such as: L-shaped two-story villa design model, flat-roofed villa model, two-story gable roofed villa model, Thai-style, European-style, garage style, swimming pool style, garden courtyard style, sloping roof style...",
+     "category": "Villa 2 Floor",
+     "id": "20"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 21",
+     "image": ["https://i.postimg.cc/506ymLsv/thiet-ke-biet-thu-3-tang-mai-thai-1.jpg"],
+     "desc": "A 3-story A three-story villa is always a dream of everyone. With a three-story architectural space, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general, and many other convenient spaces. If the three-story villa is built for residential purposes, it would be great, and if it's built to create commercial centers, it would be another direction. Nowadays, due to the increasing demand of people, this villa model is also very popular. There are many diverse models and styles to choose from when planning to build a three-story villa, such as: Thai-style roofed three-story villa model, three-story villa with basement and swimming pool...is always a dream for each of us. With an architectural space of 3 floors, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general,... and many other convenient spaces. If the 3-story villas are built for living, it's super great, but if they're built to create commercial centers, it's another direction. Currently, due to the increasing demand of people, villa models are also very popular. Diverse in terms of models and forms when intending to build a 3-story villa, you can choose from many impressive styles such as: Thai-style 3-story villa model, 3-story villa with basement, swimming pool, etc. Let's take a look at some beautiful 3-story villa models that are currently very popular.",
+     "category": "Villa 3 Floor",
+     "id": "21"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 22",
+     "image": ["https://i.postimg.cc/C1ZN2FY2/nha-cap-4-mai-thai-co-gac-lung.jpg"],
+     "desc": "A Thai-style single-story house will bring your family a highly aesthetic space. The Thai architectural style from ancient times to the present day brings your family a slender, gentle, and extremely modern beauty.",
+     "category": "With Thai Roof",
+     "id": "22"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 23",
+     "image": [
+        "https://i.postimg.cc/pXg1kCrY/biet-thu-mini-1-tang-hien-dai-hinh-3.jpg"
+     ],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "23"
+    },
+    {
+     "createdAt": "December",
+     "name": "Design Drawings 24",
+     "image": ["https://i.postimg.cc/xjtZNZ7c/mau-nha-ong-tan-co-dien-2-tang-3.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "24"
+    },
+    {
+     "createdAt": "July",
+     "name": "Design Drawings 25",
+     "image": ["https://i.postimg.cc/FzMLS7pm/uu-nhuoc-diem-4.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 3-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": " 3-Storey Tube House",
+     "id": "25"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 26",
+     "image": ["https://i.postimg.cc/CMsgPJ2g/mau-nha-ong-tan-co-dien-2-tang-1.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "26"
+    },
+    {
+     "createdAt": "December",
+     "name": "Design Drawings 27",
+     "image": ["https://i.postimg.cc/L6vqRQK2/biet-thu-san-vuon-2-tang-2-1.jpg"],
+     "desc": "desIf you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "27"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 28",
+     "image": ["https://i.postimg.cc/6qQ116DD/thite-ke-biet-thu-1-tang-tan-co-dien-3.jpg"],
+     "desc": "A single-story villa is currently one of the most popular types of houses in the construction market in Vietnam due to the outstanding advantages that this type of villa brings. It has a reasonable cost, fast construction time, and fully meets the needs of many households across the country. In this article, we will summarize and introduce to you some of the most popular single-story villa design models in 2023 so that you can admire and refer to them for your own house. This will be a very suitable suggestion if you have a desire to build a house beyond your wildest dreams!",
+     "category": "Villa 1 Floor",
+     "id": "28"
+    },
+    {
+     "createdAt": "December",
+     "name": "Design Drawings 29",
+     "image": ["https://i.postimg.cc/BbLnDFq6/mat-tien-nha-cap-4-dep.jpg"],
+     "desc": "The design of a one-story house is a quite common architecture. The simple and gentle beauty of the one-story house creates a beautiful and peaceful living space.",
+     "category": "Modern Level 4 House",
+     "id": "29"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 30",
+     "image": ["https://i.postimg.cc/dVFxTK6P/mau-nha-cap-4-mai-ton-3-phong-ngu-hinh-2.jpg"],
+     "desc": "If you are planning to build your own house with a one-story tin roof style, but still have many doubts because you do not know which modern and luxurious design to choose, then let's take a look at the latest beautiful one-story house models built with tin roof in 2023 right below. Besides that, the furniture used in the house often has simple patterns, bright colors, to harmonize with the overall space of the house.",
+     "category": "With Corrugated Iron Roof",
+     "id": "30"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 31",
+     "image": ["https://i.postimg.cc/CxGvs65y/biet-thu-tan-co-dien-3-tang-2.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "31"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 32",
+     "image": ["https://i.postimg.cc/pLsP1yhB/thiet-ke-biet-thu-3-tang-mai-thai-2.jpg"],
+     "desc": "A three-story villa is always a dream of everyone. With a three-story architectural space, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general, and many other convenient spaces. If the three-story villa is built for residential purposes, it would be great, and if it's built to create commercial centers, it would be another direction. Nowadays, due to the increasing demand of people, this villa model is also very popular. There are many diverse models and styles to choose from when planning to build a three-story villa, such as: Thai-style roofed three-story villa model, three-story villa with basement and swimming pool...",
+     "category": "Villa 3 Floor",
+     "id": "32"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 33",
+     "image": ["https://i.postimg.cc/B6ThvP0W/nha-ong-1-tang-mai-thai.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 1-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "1-Storey Tube House",
+     "id": "33"
+    },
+    {
+     "createdAt": "March",
+     "name": "Design Drawings 34",
+     "image": ["https://i.postimg.cc/tCP8KwLm/biet-thu-mini-2-tang-hien-dai-hinh-1.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "34"
+    },
+    {
+     "createdAt": "May",
+     "name": "Design Drawings 35",
+     "image": ["https://i.postimg.cc/CMJnkCSv/biet-thu-tan-co-dien-3-tang-3.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "35"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 36",
+     "image": ["https://i.postimg.cc/jjc0jjYF/1-nha-cap-4-mat-tien-16m-dep.jpg"],
+     "desc": "The design of a one-story house is a quite common architecture. The simple and gentle beauty of the one-story house creates a beautiful and peaceful living space.",
+     "category": "Modern Level 4 House",
+     "id": "36"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 37",
+     "image": ["https://i.postimg.cc/HL09gDm3/thiet-ke-biet-thu-3-tang-mai-thai-3.jpg"],
+     "desc": "A 3-story A three-story villa is always a dream of everyone. With a three-story architectural space, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general, and many other convenient spaces. If the three-story villa is built for residential purposes, it would be great, and if it's built to create commercial centers, it would be another direction. Nowadays, due to the increasing demand of people, this villa model is also very popular. There are many diverse models and styles to choose from when planning to build a three-story villa, such as: Thai-style roofed three-story villa model, three-story villa with basement and swimming pool...is always a dream for each of us. With an architectural space of 3 floors, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general,... and many other convenient spaces. If the 3-story villas are built for living, it's super great, but if they're built to create commercial centers, it's another direction. Currently, due to the increasing demand of people, villa models are also very popular. Diverse in terms of models and forms when intending to build a 3-story villa, you can choose from many impressive styles such as: Thai-style 3-story villa model, 3-story villa with basement, swimming pool, etc. Let's take a look at some beautiful 3-story villa models that are currently very popular.",
+     "category": "Villa 3 Floor",
+     "id": "37"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 38",
+     "image": ["https://i.postimg.cc/xCbWVCSc/thiet-ke-nha-cap-4-mai-thai-co-gac-lung-5.jpg"],
+     "desc": "A Thai-style single-story house will bring your family a highly aesthetic space. The Thai architectural style from ancient times to the present day brings your family a slender, gentle, and extremely modern beauty.",
+     "category": "With Thai Roof",
+     "id": "38"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 39",
+     "image": ["https://i.postimg.cc/brtqdjTS/phoi-canh-nha-cap-4-7x20m.jpg"],
+     "desc": "The design of a one-story house is a quite common architecture. The simple and gentle beauty of the one-story house creates a beautiful and peaceful living space.",
+     "category": "Modern Level 4 House",
+     "id": "39"
+    },
+    {
+     "createdAt": "December",
+     "name": "Design Drawings 40",
+     "image": ["https://i.postimg.cc/dVG5qScH/mau-nha-cap-4-mai-ton-chu-l-hinh-6.jpg"],
+     "desc": "If you are planning to build your own house with a one-story tin roof style, but still have many doubts because you do not know which modern and luxurious design to choose, then let's take a look at the latest beautiful one-story house models built with tin roof in 2023 right below. Besides that, the furniture used in the house often has simple patterns, bright colors, to harmonize with the overall space of the house.",
+     "category": "With Corrugated Iron Roof",
+     "id": "40"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 41",
+     "image": ["https://i.postimg.cc/9MQbYmRK/mau-nha-cap-4-mai-ton-chu-l-hinh-7.jpg"],
+     "desc": "If you are planning to build your own house with a one-story tin roof style, but still have many doubts because you do not know which modern and luxurious design to choose, then let's take a look at the latest beautiful one-story house models built with tin roof in 2023 right below. Besides that, the furniture used in the house often has simple patterns, bright colors, to harmonize with the overall space of the house.",
+     "category": "With Corrugated Iron Roof",
+     "id": "41"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 42",
+     "image": ["https://i.postimg.cc/dtQg3FV7/nha-2-tang-933.jpg"],
+     "desc": "A beautiful and affordable home that can meet all basic needs is the choice of many families. In addition to cost and production time reasons, these product designs also meet the scientific, convenient, and modern aesthetic needs of users...",
+     "category": "Rural Level 4 House",
+     "id": "42"
+    },
+    {
+     "createdAt": "March",
+     "name": "Design Drawings 43",
+     "image": ["https://i.postimg.cc/9QMgjMdC/biet-thu-co-dien-mini-hinh-3.jpg"],
+     "desc": "A classic villa with luxurious and convenient living space is the choice of many high-income investors. Showing sophistication in every detail, beautiful classic villa models can meet the demand for comfort and aesthetics. It requires a high level of expertise from architects, and these classic-style villas here are pleasing many customers. The common point of these ancient villas is the decoration of the architecture with a glamorous European style.",
+     "category": "Classic Villa",
+     "id": "43"
+    },
+    {
+     "createdAt": "May",
+     "name": "Design Drawings 44",
+     "image": ["https://i.postimg.cc/3wgdRmtF/biet-thu-tan-co-dien-3-tang-4.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "44"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 45",
+     "image": ["https://i.postimg.cc/Qdy4N3m5/biet-thu-co-dien-mini-hinh-5.jpg"],
+     "desc": "A classic villa with luxurious and convenient living space is the choice of many high-income investors. Showing sophistication in every detail, beautiful classic villa models can meet the demand for comfort and aesthetics. It requires a high level of expertise from architects, and these classic-style villas here are pleasing many customers. The common point of these ancient villas is the decoration of the architecture with a glamorous European style.",
+     "category": "Classic Villa",
+     "id": "45"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 46",
+     "image": ["https://i.postimg.cc/pd50p6cS/biet-thu-co-dien-mini-hinh-7.jpg"],
+     "desc": "A classic villa with luxurious and convenient living space is the choice of many high-income investors. Showing sophistication in every detail, beautiful classic villa models can meet the demand for comfort and aesthetics. It requires a high level of expertise from architects, and these classic-style villas here are pleasing many customers. The common point of these ancient villas is the decoration of the architecture with a glamorous European style.",
+     "category": "Classic Villa",
+     "id": "46"
+    },
+    {
+     "createdAt": "April",
+     "name": "Design Drawings 47",
+     "image": ["https://i.postimg.cc/cHqFYBVL/biet-thu-co-dien-mini-hinh-9.jpg"],
+     "desc": "A classic villa with luxurious and convenient living space is the choice of many high-income investors. Showing sophistication in every detail, beautiful classic villa models can meet the demand for comfort and aesthetics. It requires a high level of expertise from architects, and these classic-style villas here are pleasing many customers. The common point of these ancient villas is the decoration of the architecture with a glamorous European style.",
+     "category": "Classic Villa",
+     "id": "47"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 48",
+     "image": ["https://i.postimg.cc/KcnndyZW/thiet-ke-biet-thu-1-tang-o-nong-thon-10.jpg"],
+     "desc": "A single-story villa is currently one of the most popular types of houses in the construction market in Vietnam due to the outstanding advantages that this type of villa brings. It has a reasonable cost, fast construction time, and fully meets the needs of many households across the country. In this article, we will summarize and introduce to you some of the most popular single-story villa design models in 2023 so that you can admire and refer to them for your own house. This will be a very suitable suggestion if you have a desire to build a house beyond your wildest dreams!",
+     "category": "Villa 1 Floor",
+     "id": "48"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 49",
+     "image": ["https://i.postimg.cc/L5n31xY1/mau-nha-ong-tan-co-dien-2-tang-5.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "49"
+    },
+    {
+     "createdAt": "July",
+     "name": "Design Drawings 50",
+     "image": ["https://i.postimg.cc/0ySNW711/biet-thu-tan-co-dien-3-tang-5.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "50"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 51",
+     "image": ["https://i.postimg.cc/YqZSpvqq/nha-ong-2-tang-4-phong-ngu.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 2-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "2-Storey Tube House",
+     "id": "51"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 52",
+     "image": ["https://i.postimg.cc/05H29V8q/biet-thu-tan-co-dien-3-tang-6.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "52"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 53",
+     "image": ["https://i.postimg.cc/Mp53xStt/biet-thu-mini-2-tang-hien-dai-hinh-2.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "53"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 54",
+     "image": ["https://i.postimg.cc/mkfKLsbV/thiet-ke-nha-cap-4-mai-thai-co-gac-lung-6.jpg"],
+     "desc": "A Thai-style single-story house will bring your family a highly aesthetic space. The Thai architectural style from ancient times to the present day brings your family a slender, gentle, and extremely modern beauty.",
+     "category": "With Thai Roof",
+     "id": "54"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 55",
+     "image": ["https://i.postimg.cc/J7Z9TGqF/thiet-ke-nha-cap-4-mai-thai-co-gac-lung-8.jpg"],
+     "desc": "A Thai-style single-story house will bring your family a highly aesthetic space. The Thai architectural style from ancient times to the present day brings your family a slender, gentle, and extremely modern beauty.",
+     "category": "With Thai Roof",
+     "id": "55"
+    },
+    {
+     "createdAt": "May",
+     "name": "Design Drawings 56",
+     "image": ["https://i.postimg.cc/P5PqHtQQ/biet-thu-san-vuon-2-tang-4-1.jpg"],
+     "desc": "desIf you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "56"
+    },
+    {
+     "createdAt": "July",
+     "name": "Design Drawings 57",
+     "image": ["https://i.postimg.cc/dtQg3FV7/nha-2-tang-933.jpg"],
+     "desc": "A beautiful and affordable home that can meet all basic needs is the choice of many families. In addition to cost and production time reasons, these product designs also meet the scientific, convenient, and modern aesthetic needs of users...",
+     "category": "Rural Level 4 House",
+     "id": "57"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 58",
+     "image": ["https://i.postimg.cc/90GhPYqL/biet-thu-tan-co-dien-3-tang-7.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "58"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 59",
+     "image": ["https://i.postimg.cc/MT5pmXYV/biet-thu-mini-2-tang-hien-dai-hinh-3.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "59"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 60",
+     "image": ["https://i.postimg.cc/PJQVdvVr/biet-thu-co-dien-1.jpg"],
+     "desc": "A classic villa with luxurious and convenient living space is the choice of many high-income investors. Showing sophistication in every detail, beautiful classic villa models can meet the demand for comfort and aesthetics. It requires a high level of expertise from architects, and these classic-style villas here are pleasing many customers. The common point of these ancient villas is the decoration of the architecture with a glamorous European style.",
+     "category": "Classic Villa",
+     "id": "60"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 61",
+     "image": ["https://i.postimg.cc/rF08YqC6/nha-ong-2-tang-mai-lech.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 2-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "2-Storey Tube House",
+     "id": "61"
+    },
+    {
+     "createdAt": "April",
+     "name": "Design Drawings 62",
+     "image": ["https://i.postimg.cc/x8Q7QDcP/biet-thu-tan-co-dien-3-tang-8.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "62"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 63",
+     "image": ["https://i.postimg.cc/L67pzjjj/biet-thu-san-vuon-3-tang-1-1.jpg"],
+     "desc": "desIf you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "63"
+    },
+    {
+     "createdAt": "December",
+     "name": "Design Drawings 64",
+     "image": ["https://i.postimg.cc/pXFZZ1rW/mau-nha-cap-4-mai-ton-chu-l-hinh-8.jpg"],
+     "desc": "If you are planning to build your own house with a one-story tin roof style, but still have many doubts because you do not know which modern and luxurious design to choose, then let's take a look at the latest beautiful one-story house models built with tin roof in 2023 right below. Besides that, the furniture used in the house often has simple patterns, bright colors, to harmonize with the overall space of the house.",
+     "category": "With Corrugated Iron Roof",
+     "id": "64"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 65",
+     "image": ["https://i.postimg.cc/nrgYYqBw/mau-nha-ong-tan-co-dien-2-tang-6.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "65"
+    },
+    {
+     "createdAt": "July",
+     "name": "Design Drawings 66",
+     "image": ["https://i.postimg.cc/SxCLp2bc/nha-2-tang-nong-thon-2-1599546251-820-width600height500.jpg"],
+     "desc": "A beautiful and affordable home that can meet all basic needs is the choice of many families. In addition to cost and production time reasons, these product designs also meet the scientific, convenient, and modern aesthetic needs of users...",
+     "category": "Rural Level 4 House",
+     "id": "66"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 67",
+     "image": ["https://i.postimg.cc/X7d7s2xn/biet-thu-mini-3-tang-hien-dai-hinh-1.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "67"
+    },
+    {
+     "createdAt": "April",
+     "name": "Design Drawings 68",
+     "image": ["https://i.postimg.cc/KvC3zqvT/thiet-ke-biet-thu-2-tang-co-tang-ham-2.jpg"],
+     "desc": "In the year 2023, there are many architectural models that have been constructed throughout the country, including many design models that have received satisfaction and trust from many investors such as: L-shaped two-story villa design model, flat-roofed villa model, two-story gable roofed villa model, Thai-style, European-style, garage style, swimming pool style, garden courtyard style, sloping roof style...",
+     "category": "Villa 2 Floor",
+     "id": "68"
+    },
+    {
+     "createdAt": "March",
+     "name": "Design Drawings 69",
+     "image": ["https://i.postimg.cc/WbVxxTY1/thiet-ke-nha-cap-4-mai-thai-co-gac-lung-10.jpg"],
+     "desc": "A Thai-style single-story house will bring your family a highly aesthetic space. The Thai architectural style from ancient times to the present day brings your family a slender, gentle, and extremely modern beauty.",
+     "category": "With Thai Roof",
+     "id": "69"
+    },
+    {
+     "createdAt": "March",
+     "name": "Design Drawings 70",
+     "image": ["https://i.postimg.cc/sgDTDLMc/biet-thu-san-vuon-3-tang-2-1.jpg"],
+     "desc": "desIf you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "70"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 71",
+     "image": ["https://i.postimg.cc/RhGPz3rM/biet-thu-tan-co-dien-3-tang-10.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "71"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 72",
+     "image": ["https://i.postimg.cc/V6C3zhJ6/biet-thu-mini-3-tang-hien-dai-hinh-3.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "72"
+    },
+    {
+     "createdAt": "April",
+     "name": "Design Drawings 73",
+     "image": ["https://i.postimg.cc/tJ27pkvs/thiet-ke-biet-thu-1-tang-o-nong-thon-9.jpg"],
+     "desc": "A single-story villa is currently one of the most popular types of houses in the construction market in Vietnam due to the outstanding advantages that this type of villa brings. It has a reasonable cost, fast construction time, and fully meets the needs of many households across the country. In this article, we will summarize and introduce to you some of the most popular single-story villa design models in 2023 so that you can admire and refer to them for your own house. This will be a very suitable suggestion if you have a desire to build a house beyond your wildest dreams!",
+     "category": "Villa 1 Floor",
+     "id": "73"
+    },
+    {
+     "createdAt": "March",
+     "name": "Design Drawings 74",
+     "image": ["https://i.postimg.cc/FFwp3xTy/thiet-ke-biet-thu-3-tang-mai-thai-4-1.jpg"],
+     "desc": "A 3-story A three-story villa is always a dream of everyone. With a three-story architectural space, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general, and many other convenient spaces. If the three-story villa is built for residential purposes, it would be great, and if it's built to create commercial centers, it would be another direction. Nowadays, due to the increasing demand of people, this villa model is also very popular. There are many diverse models and styles to choose from when planning to build a three-story villa, such as: Thai-style roofed three-story villa model, three-story villa with basement and swimming pool...is always a dream for each of us. With an architectural space of 3 floors, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general,... and many other convenient spaces. If the 3-story villas are built for living, it's super great, but if they're built to create commercial centers, it's another direction. Currently, due to the increasing demand of people, villa models are also very popular. Diverse in terms of models and forms when intending to build a 3-story villa, you can choose from many impressive styles such as: Thai-style 3-story villa model, 3-story villa with basement, swimming pool, etc. Let's take a look at some beautiful 3-story villa models that are currently very popular.",
+     "category": "Villa 3 Floor",
+     "id": "74"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 75",
+     "image": ["https://i.postimg.cc/0QVwZ9GM/nha-ong-1-tang-2-mai-bang.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 1-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "1-Storey Tube House",
+     "id": "75"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 76",
+     "image": ["https://i.postimg.cc/7ZNYSmnb/nha-ong-2-tang-5m.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 2-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "2-Storey Tube House",
+     "id": "76"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 77",
+     "image": ["https://i.postimg.cc/hGt08ZTG/yeu-to-15.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 3-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": " 3-Storey Tube House",
+     "id": "77"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 78",
+     "image": ["https://i.postimg.cc/NjJVyTsK/nha-cap-4-mai-thai-co-2-phong-ngu.jpg"],
+     "desc": "A Thai-style single-story house will bring your family a highly aesthetic space. The Thai architectural style from ancient times to the present day brings your family a slender, gentle, and extremely modern beauty.",
+     "category": "With Thai Roof",
+     "id": "78"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 79",
+     "image": ["https://i.postimg.cc/G2YTvv72/nha-ong-3-tang-mai-lech.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 3-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": " 3-Storey Tube House",
+     "id": "79"
+    },
+    {
+     "createdAt": "July",
+     "name": "Design Drawings 80",
+     "image": ["https://i.postimg.cc/85SbrXys/biet-thu-mini-1-tang-tan-co-dien-3.jpg"],
+     "desc": "The modern-style mini villa designs are created with a youthful and dynamic aesthetic. The talented team of architects meticulously and creatively designed these models using asymmetrical geometric shapes, delivering innovative and unique impressions on every line. Simplicity is emphasized in the exterior form of this modern-style mini villa design while investing and prioritizing the interior design.",
+     "category": "Mini Villa",
+     "id": "80"
+    },
+    {
+     "createdAt": "October",
+     "name": "Design Drawings 81",
+     "image": ["https://i.postimg.cc/26tQd4fL/mau-nha-cap-4-mai-ton-chu-l-hinh-10.jpg"],
+     "desc": "If you are planning to build your own house with a one-story tin roof style, but still have many doubts because you do not know which modern and luxurious design to choose, then let's take a look at the latest beautiful one-story house models built with tin roof in 2023 right below. Besides that, the furniture used in the house often has simple patterns, bright colors, to harmonize with the overall space of the house.",
+     "category": "With Corrugated Iron Roof",
+     "id": "81"
+    },
+    {
+     "createdAt": "March",
+     "name": "Design Drawings 82",
+     "image": ["https://i.postimg.cc/YCczvfpv/mau-nha-ong-tan-co-dien-2-tang-7.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "82"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 83",
+     "image": ["https://i.postimg.cc/TYbYkRfy/thiet-ke-biet-thu-2-tang-co-tang-ham-4.jpg"],
+     "desc": "In the year 2023, there are many architectural models that have been constructed throughout the country, including many design models that have received satisfaction and trust from many investors such as: L-shaped two-story villa design model, flat-roofed villa model, two-story gable roofed villa model, Thai-style, European-style, garage style, swimming pool style, garden courtyard style, sloping roof style...",
+     "category": "Villa 2 Floor",
+     "id": "83"
+    },
+    {
+     "createdAt": "October",
+     "name": "Design Drawings 84",
+     "image": ["https://i.postimg.cc/Gp4fv2tq/thiet-ke-nha-cap-4-mai-thai-2-phong-ngu-2.jpg"],
+     "desc": "A Thai-style single-story house will bring your family a highly aesthetic space. The Thai architectural style from ancient times to the present day brings your family a slender, gentle, and extremely modern beauty.",
+     "category": "With Thai Roof",
+     "id": "84"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 85",
+     "image": ["https://i.postimg.cc/bvp0TyS8/mau-nha-ong-tan-co-dien-2-tang-9.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "85"
+    },
+    {
+     "createdAt": "November",
+     "name": "Design Drawings 86",
+     "image": ["https://i.postimg.cc/s2n4nFRL/2022-12-05-120422-1024x640.jpg"],
+     "desc": "A beautiful and affordable home that can meet all basic needs is the choice of many families. In addition to cost and production time reasons, these product designs also meet the scientific, convenient, and modern aesthetic needs of users...",
+     "category": "Rural Level 4 House",
+     "id": "86"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 87",
+     "image": ["https://i.postimg.cc/k5YVbqxT/z2254211168147-f7c64fef8886156cec27d4c0e199cb2d.jpg"],
+     "desc": "The design of a one-story house is a quite common architecture. The simple and gentle beauty of the one-story house creates a beautiful and peaceful living space.",
+     "category": "Modern Level 4 House",
+     "id": "87"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 88",
+     "image": ["https://i.postimg.cc/Qx7pZ9ph/mau-nha-ong-tan-co-dien-3-tang-1.jpg"],
+     "desc": "It is undeniable that when mentioning classical-style houses, people often think of the first villas. However, through the continuously updated collection of 50 beautiful classical-style row house designs we have here, readers will have a Ifferent perspective on applying the quintessence of classical architecture to row house design. Regardless of the Ifferences in scale, characteristics, whether it's a three-story, four-story, five-story classical-style row house with an elevator or a commercial one, you will feel the attraction with exquisite decorative lines and depth.",
+     "category": "Neoclassical Tube House",
+     "id": "88"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 89",
+     "image": ["https://i.postimg.cc/WzcQWP2V/uu-diem-18-1.jpg"],
+     "desc": "Alongside emerging trends in new home design, the 1-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": "1-Storey Tube House",
+     "id": "89"
+    },
+    {
+     "createdAt": "September",
+     "name": "Design Drawings 90",
+     "image": ["https://i.postimg.cc/2jczj18L/thiet-ke-biet-thu-1-tang-o-nong-thon-8.jpg"],
+     "desc": "A single-story villa is currently one of the most popular types of houses in the construction market in Vietnam due to the outstanding advantages that this type of villa brings. It has a reasonable cost, fast construction time, and fully meets the needs of many households across the country. In this article, we will summarize and introduce to you some of the most popular single-story villa design models in 2023 so that you can admire and refer to them for your own house. This will be a very suitable suggestion if you have a desire to build a house beyond your wildest dreams!",
+     "category": "Villa 1 Floor",
+     "id": "90"
+    },
+    {
+     "createdAt": "April",
+     "name": "Design Drawings 91",
+     "image": ["https://i.postimg.cc/Pr6mK5qW/biet-thu-san-vuon-3-tang-3-1.jpg"],
+     "desc": "desIf you own a plot of land that is not too large but still want to design a garden villa, you can choose this mini garden villa model. With the desire to design a mini garden villa full of the green color of nature, to satisfy the hobby of gardening, and a fresh atmosphere, choosing the mini villa design model is the wisest choice for an ideal living space. You will be delighted if your garden is filled with the sounds of birds and the fragrance of flowers blooming, truly amazing isn't it? The garden doesn't need to be too wide, just mini-sized, but it must be unique, diverse in trees, fruits, and fragrant flowers.",
+     "category": "Modern Type",
+     "id": "91"
+    },
+    {
+     "createdAt": "October",
+     "name": "Design Drawings 92",
+     "image": ["https://i.postimg.cc/J4WZ57kn/1-xay-nha-2-tang-mai-bang-80m2-o-que.jpg"],
+     "desc": "A beautiful and affordable home that can meet all basic needs is the choice of many families. In addition to cost and production time reasons, these product designs also meet the scientific, convenient, and modern aesthetic needs of users...",
+     "category": "Rural Level 4 House",
+     "id": "92"
+    },
+    {
+     "createdAt": "June",
+     "name": "Design Drawings 93",
+     "image": ["https://i.postimg.cc/mDyjQcgQ/biet-thu-tan-co-dien-mini-3-1.jpg"],
+     "desc": "Luxury - Elegance - Class' is always a beautiful phrase that many people often mention when referring to the current modern classic villa models. With solid shapes and delicate decorative motifs, modern classic villas are a great idea to build your dream home. One of the sought-after architectural styles for many years, this type of architecture is worth considering. Unlike modern house styles, the modern classic style showcases beauty through quite detailed and aesthetic lines.",
+     "category": "Neoclassical Villa",
+     "id": "93"
+    },
+    {
+     "createdAt": "February",
+     "name": "Design Drawings 94",
+     "image": ["https://i.postimg.cc/1zLXJ42j/thiet-ke-biet-thu-3-tang-mai-thai-6.jpg"],
+     "desc": "A 3-story A three-story villa is always a dream of everyone. With a three-story architectural space, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general, and many other convenient spaces. If the three-story villa is built for residential purposes, it would be great, and if it's built to create commercial centers, it would be another direction. Nowadays, due to the increasing demand of people, this villa model is also very popular. There are many diverse models and styles to choose from when planning to build a three-story villa, such as: Thai-style roofed three-story villa model, three-story villa with basement and swimming pool...is always a dream for each of us. With an architectural space of 3 floors, there will be enough bedrooms, dining rooms, kitchens, entertainment rooms in general,... and many other convenient spaces. If the 3-story villas are built for living, it's super great, but if they're built to create commercial centers, it's another direction. Currently, due to the increasing demand of people, villa models are also very popular. Diverse in terms of models and forms when intending to build a 3-story villa, you can choose from many impressive styles such as: Thai-style 3-story villa model, 3-story villa with basement, swimming pool, etc. Let's take a look at some beautiful 3-story villa models that are currently very popular.",
+     "category": "Villa 3 Floor",
+     "id": "94"
+    },
+    {
+     "createdAt": "May",
+     "name": "Design Drawings 95",
+     "image": ["https://i.postimg.cc/4xL48wmd/ban-ve-nha-cap-4-2.jpg"],
+     "desc": "The design of a one-story house is a quite common architecture. The simple and gentle beauty of the one-story house creates a beautiful and peaceful living space.",
+     "category": "Modern Level 4 House",
+     "id": "95"
+    },
+    {
+     "createdAt": "May",
+     "name": "Design Drawings 96",
+     "image": ["https://i.postimg.cc/bYxBx4Yc/biet-thu-co-dien-mini-hinh-1.jpg"],
+     "desc": "A classic villa with luxurious and convenient living space is the choice of many high-income investors. Showing sophistication in every detail, beautiful classic villa models can meet the demand for comfort and aesthetics. It requires a high level of expertise from architects, and these classic-style villas here are pleasing many customers. The common point of these ancient villas is the decoration of the architecture with a glamorous European style.",
+     "category": "Classic Villa",
+     "id": "96"
+    },
+    {
+     "createdAt": "October",
+     "name": "Design Drawings 97",
+     "image": ["https://i.postimg.cc/QCwGQWH6/thiet-ke-biet-thu-1-tang-o-nong-thon-6.jpg"],
+     "desc": "A single-story villa is currently one of the most popular types of houses in the construction market in Vietnam due to the outstanding advantages that this type of villa brings. It has a reasonable cost, fast construction time, and fully meets the needs of many households across the country. In this article, we will summarize and introduce to you some of the most popular single-story villa design models in 2023 so that you can admire and refer to them for your own house. This will be a very suitable suggestion if you have a desire to build a house beyond your wildest dreams!",
+     "category": "Villa 1 Floor",
+     "id": "97"
+    },
+    {
+     "createdAt": "April",
+     "name": "Design Drawings 98",
+     "image": ["https://i.postimg.cc/W16pvXDT/thiet-ke-biet-thu-2-tang-co-tang-ham-5.jpg"],
+     "desc": "In the year 2023, there are many architectural models that have been constructed throughout the country, including many design models that have received satisfaction and trust from many investors such as: L-shaped two-story villa design model, flat-roofed villa model, two-story gable roofed villa model, Thai-style, European-style, garage style, swimming pool style, garden courtyard style, sloping roof style...",
+     "category": "Villa 2 Floor",
+     "id": "98"
+    },
+    {
+     "createdAt": "January",
+     "name": "Design Drawings 99",
+     "image": ["https://i.postimg.cc/ZYPCZ8Wb/mat-bang-mau-nha-2-tang-don-gian-hien-dai.jpg"],
+     "desc": "A beautiful and affordable home that can meet all basic needs is the choice of many families. In addition to cost and production time reasons, these product designs also meet the scientific, convenient, and modern aesthetic needs of users...",
+     "category": "Rural Level 4 House",
+     "id": "99"
+    },
+    {
+     "createdAt": "August",
+     "name": "Design Drawings 100",
+     "image": ["https://i.postimg.cc/pdr6VL0k/mai-bang-3.jpg"],
+     "desc": "deAlongside emerging trends in new home design, the 3-story tube-shaped house model still stands firm in the hearts of customers, widely accepted and applied in design. Below are some new architectural trends for 2023 that you can refer to when applying them to your family's future home.",
+     "category": " 3-Storey Tube House",
+     "id": "100"
+    }
+   ]
