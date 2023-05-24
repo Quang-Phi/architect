@@ -48,10 +48,9 @@ const Header = () => {
                 <img src="images/logo.png" alt="" />
               </a>
             </div>
-            <div id="nav">
+            <div id="nav" className={`${ct.menuStatus.menuNav ? "menu-mobile" : ""}`}>
               <ul
                 id="nav-list"
-                className={`${ct.menuStatus.menuNav ? "menu-mobile" : ""}`}
               >
                 <li>
                   <NavLink to="/" >

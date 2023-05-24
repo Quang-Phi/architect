@@ -328,7 +328,7 @@ div.caroufredsel_wrapper {
   }
 }
 
-.f-loader{
+.f-loader {
   position: fixed;
   top: 0;
   left: 0;
@@ -342,13 +342,13 @@ div.caroufredsel_wrapper {
   .f-load {
     width: 48px;
     height: 48px;
-    border: 5px solid #FFF;
+    border: 5px solid #fff;
     border-bottom-color: transparent;
     border-radius: 50%;
     display: inline-block;
     box-sizing: border-box;
     animation: rotate 1s linear infinite;
-    }
+  }
 }
 
 @keyframes rotate {
@@ -425,41 +425,61 @@ div.caroufredsel_wrapper {
     display: block !important;
   }
 
-  ul#navlist.menu-mobile {
-    display: block !important;
-    position: fixed;
-    left: 0;
-    top: 0;
-    z-index: 100;
-    bottom: 0;
-    background: #1d1d1d;
-    min-width: 300px;
-    padding: 40px !important;
+  @keyframes slide {
+    100% {
+      transform: translateX(0);
+    }
   }
 
-  ul#navlist.menu-mobile a {
-    color: #fff;
-    padding-left: 0;
-    margin-bottom: 24px;
+  #nav.menu-mobile {
+    &::before {
+      content: "";
+      position: fixed;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.2);
+      z-index: 2;
+    }
+    ul#nav-list {
+      transition: all 0.3s ease-in-out;
+      display: block !important;
+      position: fixed;
+      left: 0;
+      top: 0;
+      z-index: 100;
+      bottom: 0;
+      background: #1d1d1d;
+      padding: 40px !important;
+      min-width: 300px;
+      transform: translateX(-300px);
+      animation: slide 0.3s ease-in-out forwards;
+      a {
+        color: #fff !important;
+        padding-left: 0;
+        margin-bottom: 24px;
+        &.active * {
+          color: #4eccb9 !important;
+        }
+        &:hover {
+          * {
+            color: #4eccb9 !important;
+          }
+        }
+        .sup-title {
+          color: #e5e5e5 !important;
+        }
+      }
+    }
+    a .span {
+      display: none;
+    }
   }
 
-  ul#navlist.menu-mobile a .span {
-    display: none;
-  }
-
-  ul#navlist.menu-mobile::before {
-    content: "";
-    position: fixed;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(255, 255, 255, 0.1);
-    z-index: -1;
-  }
   #nav .sub-nav {
     position: relative;
-    z-index: 999;
+    z-index: 999999;
     transform: scale(0.9);
     transition: all 0.1s ease-in-out;
   }
